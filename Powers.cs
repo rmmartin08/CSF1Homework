@@ -14,7 +14,7 @@ namespace ConsoleApp1
             for (int i = 1; i < 51; i++)
             {
                 counter *= 2;
-                Console.WriteLine((counter));                
+                Console.WriteLine((counter));
             }
         }
     }
